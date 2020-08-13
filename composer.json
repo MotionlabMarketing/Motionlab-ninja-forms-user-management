@@ -1,0 +1,6 @@
+{
+  "name": "wordpress-plugins-purchased/ninja-forms-user-management",
+  "description": "Manage Wordpress User signups, logins and profiles",
+  "type": "wordpress-plugin",
+  "license": "Copyright WP Ninjas, LLC"
+}
